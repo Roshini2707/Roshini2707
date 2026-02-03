@@ -19,7 +19,7 @@ I am a passionate Master's CS student at Stony Brook University, driven by a cur
 
 ## Get in Touch
 
-- LinkedIN: https://www.linkedin.com/in/roshini-madhavi-latha-boddu/
+- LinkedIn: https://www.linkedin.com/in/roshini-madhavi-latha-boddu/
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together.
 
