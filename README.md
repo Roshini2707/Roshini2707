@@ -7,15 +7,6 @@ I am a passionate Master's CS student at Stony Brook University, driven by a cur
 - I'm currently pursuing my Master's in Computer Science at Stony Brook University in New York.
 - I have 2 years of experience as Software Development Engineer in Comcast, India.
 
-## Currently Exploring
-
-  - Learning Full Stack Web Development
-  - Exploring the ins and outs of React for dynamic front-end experiences.
-  - Navigating through the world of React Router for seamless page transitions.
-  - Styling with Tailwind CSS to create modern and responsive user interfaces.
-  - Building server-side applications with Django, a powerful Python web framework.
-  - Diving into PostgreSQL for efficient and scalable database management.
-
 
 ## Get in Touch
 
