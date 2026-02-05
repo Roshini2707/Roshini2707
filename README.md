@@ -23,7 +23,7 @@
 **Languages & Web Develpment**  
 `Golang` `Python` `C++` `Java` `Scala` `JavaScript` `React` `HTML` `CSS`
 
-**Databases & Tools**  
+**Databases & Tools**
 `PostgreSQL` `MySQL` `Teradata` `MongoDB` `DynamoDB` `GraphQL` `PySpark`
 
 **Cloud Platforms & Infrastructure**
