@@ -23,13 +23,13 @@
 **Languages & Web Develpment**  
 `Golang` `Python` `C++` `Java` `Scala` `JavaScript` `React` `HTML` `CSS`
 
-**Databases & Tools**
+**Databases & Tools**  
 `PostgreSQL` `MySQL` `Teradata` `MongoDB` `DynamoDB` `GraphQL` `PySpark`
 
-**Cloud Platforms & Infrastructure**
+**Cloud Platforms & Infrastructure**  
 `AWS(EC2, S3, Lambda)` `Docker` `Kubernetes` `Jenkins` `Git` `Concourse`
 
-**Data Engineering & Distributed Systems**
+**Data Engineering & Distributed Systems**  
 `Apache Spark` `Airflow` `Databricks` `Snowflake` `Microservices` `gRPC` `REST APIs`
 
 
