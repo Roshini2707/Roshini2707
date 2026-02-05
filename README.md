@@ -1,31 +1,38 @@
 # Hi, I'm Roshini Madhavi Latha Boddu!
+    Master's in Computer Science @ Stony Brook University
+    Software Developer | Data Engineering | AI/ML Enthusiast 
 
-I am a passionate Master's CS student at Stony Brook University, driven by a curiosity for technology and a love for coding. My journey involves delving into the world of computer science, exploring new ideas.
-
+---
 ## About Me
+- Experienced in **Teradata, Python, Scala, Bash, Linux, Spark, Kubernetes, Airflow, SonarQube, ELK Stack**  
+- Worked on **Backend Development, DevOps, Data Engineering, and Distributed Systems**  
+- Built projects:
+  - **Pirate ChatBot** (ChatBot built using React + TypeScript + AWS Lambda + HTML + CSS)
+  - **Voice Controlled Calculator** (A Calculator built using Python tkinter)
+  - **Distributed Transaction System with PBFT Consensus Algorithm** (Built using Python + gRPC + SHA256 algorithm for encryption and decryption)
+  
+- Strong focus on performance optimization, scalability, and clean architecture 
 
-- I'm currently pursuing my Master's in Computer Science at Stony Brook University in New York.
-- I have 2 years of experience as Software Development Engineer in Comcast, India.
+---
 
+## Experience
+- **Software Development Engineer** - Comcast
+- **Data Experience Intern** - Comcast  
 
-## Get in Touch
+---
 
-- LinkedIn: https://www.linkedin.com/in/roshini-madhavi-latha-boddu/
+## Tech Stack
+**Languages & Frameworks**  
+`Golang` `Python` `C++` `Java` `JavaScript` `React` `Rust`
+
+**Databases & Tools**  
+`PostgreSQL` `SQL` `MongoDB` `PySpark` `Docker` `Git` 
+
+---
+
+## Connect with me
+- [LinkedIn](https://www.linkedin.com/in/roshini-madhavi-latha-boddu/)
+- Email: bodduroshinimadhavilatha@gmail.com
+---
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together.
-
-
-<!--
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
